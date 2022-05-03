@@ -1,3 +1,3 @@
 # OpenCV
-OpenCV Prac
-OpenCV 개인 연습 및 프로젝트 디렉터리 입니다.
+This directory for OpenCV. <br>
+이 디렉토리는 OpenCV 개인 프로젝트 및 복습 디렉토리입니다.

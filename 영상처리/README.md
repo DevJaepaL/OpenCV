@@ -1,4 +1,4 @@
-### Google Colab으로 OpenCV를 이용해 영상을 알고리즘으로 처리하는 것을 알아본다.
+### Google Colab으로 OpenCV를 이용해 영상을 알고리즘으로 처리하는 것을 알아봅시다!
 
 참고자료
 + <a href="https://namu.wiki/w/OpenCV">나무위키</a>

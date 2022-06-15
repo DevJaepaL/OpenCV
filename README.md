@@ -1,2 +1,2 @@
 # OpenCV
-Hello OpenCV
+Hello, OpenCV !
